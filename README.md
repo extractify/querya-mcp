@@ -2,6 +2,8 @@
 
 # Querya: Google Ads MCP server
 
+[![mcptry](https://mcptry.com/badge/io.querya/querya)](https://mcptry.com/servers/io.querya/querya)
+
 Querya is a hosted MCP server that connects AI agents to your Google Ads accounts: Claude, ChatGPT, Cursor, VS Code, Gemini CLI, Cline and any client that speaks MCP over Streamable HTTP.
 
 Ask in plain language and your agent answers with live data: performance by campaign, ad group, keyword or search term; wasted spend and negative keyword candidates; Quality Score; impression share; budget pacing; conversion actions; change history; policy issues and Google Ads Recommendations. Keyword research uses Google Keyword Planner: ideas, metrics and forecasts by location and language.
