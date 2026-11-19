@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.querya/querya",
+  "title": "Querya — Google Ads",
+  "description": "Google Ads for AI agents: live reports, Keyword Planner, and changes with preview, confirm and undo.",
+  "repository": {
+    "url": "https://github.com/extractify/querya-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://querya.io",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.querya.io/mcp"
+    }
+  ]
+}

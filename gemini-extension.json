@@ -1,0 +1,11 @@
+{
+  "name": "querya",
+  "version": "1.0.0",
+  "description": "Google Ads in Gemini CLI: live reports, Keyword Planner and campaign changes with a validated preview, your confirmation and undo.",
+  "mcpServers": {
+    "querya": {
+      "httpUrl": "https://mcp.querya.io/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
